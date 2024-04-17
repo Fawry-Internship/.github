@@ -207,11 +207,12 @@ erDiagram
 
 <table>
   <tr>
-    <td><img src="https://github.com/sameh-tarek.png" alt="Sameh Tarek" width="120"><br>Sameh Tarek</td>
-    <td><img src="https://github.com/abdo-salem.png" alt="Abdelrahman Reda" width="120"><br>Abdelrahman Reda</td>
-    <td><img src="https://github.com/Abdulrahman-Naqeb.png" alt="Abdulrahman Naqeb" width="120"><br>Abdulrahman Naqeb</td>
-    <td><img src="https://github.com/Esraamabrouk2022.png" alt="Esraa Mabrouk" width="120"><br>Esraa Mabrouk</td>
-    <td><img src="https://github.com/Fouadabdelhalim9.png" alt="Fouad Abdelhalim" width="120"><br>Fouad Abdelhalim</td>
-    <td><img src="https://github.com/HajarRefaat264.png" alt="Hajar Refaat" width="120"><br>Hajar Refaat</td>
+    <td><a href="https://github.com/sameh-tarek"><img src="https://github.com/sameh-tarek.png" alt="Sameh Tarek" width="120"></a><br>Sameh Tarek</td>
+    <td><a href="https://github.com/abdo-salem"><img src="https://github.com/abdo-salem.png" alt="Abdelrahman Reda" width="120"></a><br>Abdelrahman Reda</td>
+    <td><a href="https://github.com/Abdulrahman-Naqeb"><img src="https://github.com/Abdulrahman-Naqeb.png" alt="Abdulrahman Naqeb" width="120"></a><br>Abdulrahman Naqeb</td>
+    <td><a href="https://github.com/Esraamabrouk2022"><img src="https://github.com/Esraamabrouk2022.png" alt="Esraa Mabrouk" width="120"></a><br>Esraa Mabrouk</td>
+    <td><a href="https://github.com/Fouadabdelhalim9"><img src="https://github.com/Fouadabdelhalim9.png" alt="Fouad Abdelhalim" width="120"></a><br>Fouad Abdelhalim</td>
+    <td><a href="https://github.com/HajarRefaat264"><img src="https://github.com/HajarRefaat264.png" alt="Hajar Refaat" width="120"></a><br>Hajar Refaat</td>
   </tr>
 </table>
+
